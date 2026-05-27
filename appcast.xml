@@ -1,0 +1,20 @@
+<?xml version="1.0" standalone="yes"?><!-- sparkle-sign-warning:
+IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
+--><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>MXF Look</title>
+        <item>
+            <title>1.0b1</title>
+            <pubDate>Wed, 27 May 2026 07:07:41 +0200</pubDate>
+            <link>https://rztrace.com</link>
+            <sparkle:version>20260527050347</sparkle:version>
+            <sparkle:shortVersionString>1.0b1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://mxflook-updates.rztrace.com/MXF-Look-1.0b1-20260527050347.zip" length="57447165" type="application/octet-stream" sparkle:edSignature="17xpz0NbPVbcjxQYVkEVpgbQrSsiKdZVKzliqEbQgkLbBC7GTgeHUYnhQSyPvSOQmVXgjBydgt1SQTmhd3yTCQ=="></enclosure>
+        </item>
+    </channel>
+</rss><!-- sparkle-signatures:
+edSignature: 1luE7REYU5KmM1wMCoBbD6YTIe8gSBmeSVzZ7DZ8ZpR6s1Q3sHhQnsIZgPY7dfY21QID+3UW4IbW4fIqG1BjAQ==
+length: 1168
+-->
